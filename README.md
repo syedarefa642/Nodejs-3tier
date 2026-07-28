@@ -14,7 +14,8 @@ This project implements an automated CI/CD pipeline using Jenkins.
 
 # 🏗 Architecture
 
-![Architecture](assets/Architecture-diagram.png)
+![Architecture](<img width="1693" height="929" alt="Architecture-diagram" src="https://github.com/user-attachments/assets/ef6a16a5-128d-4a7f-b28e-8f77c9096ac9" />
+)
 
 ---
 
