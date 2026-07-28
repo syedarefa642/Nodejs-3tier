@@ -24,7 +24,6 @@ This project implements an automated CI/CD pipeline using Jenkins.
 
 Every push to the **main** branch automatically triggers the Jenkins CI pipeline.
 
-![Webhook](assets/github-webhook.jpeg)
 ---
 
 ## CI Pipeline
@@ -39,8 +38,6 @@ The CI pipeline performs:
 - Login to Docker Hub
 - Push Docker Images
 - Trigger CD Pipeline
-
-![CI Pipeline](assets/ci-pipeline.jpeg)
 
 ---
 
@@ -57,8 +54,6 @@ Checks include:
 - Maintainability
 - Quality Gate
 
-![SonarQube](assets/sonarqube.jpeg)
-
 ---
 
 ## Docker Hub
@@ -70,7 +65,8 @@ Images:
 - taskflow-frontend
 - taskflow-backend
 
-![Docker Hub](assets/dockerhub.jpeg)
+![Docker Hub](<img width="1355" height="597" alt="Docker Images(Frontend   Backend)" src="https://github.com/user-attachments/assets/d481a88a-c168-4d7a-b7aa-fa7f91154399" />
+)
 
 ---
 
@@ -138,7 +134,8 @@ nodejs-3tier/
 
 The deployed TaskFlow application.
 
-![Dashboard](assets/website-dashboard.jpeg)
+![Dashboard](<img width="1355" height="605" alt="Task" src="https://github.com/user-attachments/assets/1c92e431-3ddd-473e-b1b7-c1bf5d34e453" />
+)
 
 ---
 
