@@ -135,7 +135,8 @@ nodejs-3tier/
 
 The deployed TaskFlow application.
 
-![Dashboard](<img width="1355" height="605" alt="Task" src="https://github.com/user-attachments/assets/1c92e431-3ddd-473e-b1b7-c1bf5d34e453" />
+![Dashboard](<img width="1355" height="605" alt="Task" src="https://github.com/user-attachments/assets/fb48544c-c8d4-4aae-8fc8-062091a5a6a5" />
+
 )
 
 ---
