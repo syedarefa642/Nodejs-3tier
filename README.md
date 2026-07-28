@@ -222,6 +222,6 @@ A Jenkins cron job collects CPU, Memory and Docker statistics from the deploymen
 
 # 👨‍💻 Author
 
-**Nafiya**
+**Refa**
 
 DevOps | Docker | Jenkins | SonarQube | GitHub Actions | CI/CD | AWS
