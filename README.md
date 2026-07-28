@@ -53,6 +53,7 @@ Checks include:
 - Security Hotspots
 - Maintainability
 - Quality Gate
+<img width="1351" height="586" alt="SonarQube" src="https://github.com/user-attachments/assets/b388f3b8-e19e-442c-994d-e265f7047c4a" />
 
 ---
 
