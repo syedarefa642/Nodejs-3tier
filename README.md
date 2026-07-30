@@ -40,6 +40,8 @@ The CI pipeline performs:
 - Login to Docker Hub
 - Push Docker Images
 - Trigger CD Pipeline
+<img width="1600" height="700" alt="ci-pipeline" src="https://github.com/user-attachments/assets/80ee6be0-d4ae-48ed-9d0c-d32bb9b21d8a" />
+
 
 ---
 
@@ -88,7 +90,8 @@ Stages:
 - Deploy Application
 - Verify Deployment
 
-![CD Pipeline](assets/cd-pipeline.jpeg)
+![CD Pipeline](<img width="1600" height="737" alt="cd-pipeline" src="https://github.com/user-attachments/assets/da0e23b0-af22-4f8e-9739-d3b8b42d2501" />
+)
 
 ---
 
